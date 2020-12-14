@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Sviatoslav\source\repos\Laba9.3\Laba9.3\Source.cpp(147,6): warning C4101: 'Double': unreferenced local variable
+C:\Users\Sviatoslav\source\repos\Laba9.3\Laba9.3\Source.cpp(146,6): warning C4101: 'Single': unreferenced local variable
+C:\Users\Sviatoslav\source\repos\Laba9.3\Laba9.3\Source.cpp(148,10): warning C4101: 'numbers': unreferenced local variable
+C:\Users\Sviatoslav\source\repos\Laba9.3\Laba9.3\Source.cpp(150,6): warning C4101: 'num': unreferenced local variable
+  Laba9.3.vcxproj -> C:\Users\Sviatoslav\source\repos\Laba9.3\Debug\Laba9.3.exe
